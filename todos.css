@@ -1,0 +1,131 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.flex{
+    display: flex;
+}
+.container h1{
+    color: white;
+    margin-left: 650px;
+    align-items: center;
+    margin-top: 5px;
+}
+.container{
+border: 1px solid black;
+width: 100vw;
+height: 60px;
+margin-top: 40px;
+background-color: black;
+}
+.container-set{
+        border : 1px solid rgb(231, 222, 222);
+        height: 320px;
+        width: 900px;
+        border-radius: 14px;
+        background-color: rgb(231, 222, 222);
+        margin-left: 220px;
+        margin-top: 80px;
+}
+.container-set1{
+    height: 320px;
+    width: 900px;
+    border-radius: 14px;
+    margin-left: 220px;
+    margin-top: 420px;
+}
+.container-set1 h1{
+    margin-left: 420px;
+}
+h3{
+    margin-left: 380px;
+}
+h2{
+color: white;
+margin-top: -65px;
+margin-left: 1300px;
+} 
+.container-set input{
+    border: 1px solid white;
+    background-color: white;
+    width: 800px;
+    height: 35px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.signup{
+    font-weight: 400;
+    font-size: 17px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 12px;
+    cursor: pointer;
+    width: 800px;
+    height: 40px;
+    background-color: black;
+    margin-top: 30px;
+    margin-left: 40px;
+    }
+    .signup p{
+        color: white;
+        margin-top: 10px;
+        margin-left: 380px;
+        text-decoration: none;
+      }
+.border{
+    box-shadow: 4px 5px 16px 4px rgb(228, 246, 252);
+    height: 60px;
+    width: 900px;
+}
+ol li p {
+    text-decoration: none;
+    }
+ol li input[type=checkbox]:checked ~ p {
+    text-decoration: line-through;
+    }
+ p{
+    margin-left: 60px;
+    margin-top: -25px;
+}
+.border input{
+    /* display: flex; */
+    margin-top: 25px;
+    margin-left: - 15px;
+    height: 17px;
+    width: 17px;
+}
+#result1{
+    margin-top: -10px;
+}
+#result{
+    margin-top: -40px;
+}
+.alert{
+    width: 500px;
+    height: 150px;
+    margin: 240px auto;
+}
+.alert h1{
+    color: black;
+    margin-left: 180px;
+}
+.alert p{
+    color: lightslategray;
+    margin-left: 240px;
+    font-weight: 500;
+}
+span{
+    margin-top: -50px;
+    margin-left: 820px;
+    cursor: pointer;
+    display: flex;
+}
+span:hover{
+    border: 1px solid lightslategrey;
+    width: 20px;
+    height: 20px;
+    background-color: lightslategray;
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
